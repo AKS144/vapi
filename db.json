@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "hello",
+      "author": "12",
+      "id": 1
+    },
+    {
+      "title": "Abhishek",
+      "author": "12",
+      "id": 2
+    },
+    {
+      "title": "FG",
+      "author": "12",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
